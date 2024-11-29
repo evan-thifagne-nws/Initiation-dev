@@ -1,0 +1,169 @@
+.mail {
+  background-color: white;
+  font-family: "Poppins", sans-serif;
+  color: black;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.mail:hover {
+  background-color: #000000;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.tel {
+  background-color: white;
+  font-family: "Poppins", sans-serif;
+  color: black;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.tel:hover {
+  background-color: #000000;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.linkedin {
+  background-color: white;
+  font-family: "Poppins", sans-serif;
+  color: black;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.linkedin:hover {
+  background-color: #000000;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.main {
+  font-family: "Poppins", sans-serif;
+}
+
+.body {
+  font-family: "Poppins", sans-serif;
+}
+
+.header {
+  display: flex;
+  color: white;
+  font-family: "Popins", sans-serif;
+  border-radius: 10px;
+  background-color: #003566;
+  padding: 20px;
+  width: 650px;
+  margin: 20px;
+  gap: 30px;
+}
+
+.experiences {
+  background-color: #003566;
+  border-radius: 10px;
+  padding: 20px;
+  color: white;
+  width: 650px;
+  margin: 20px;
+}
+
+.about {
+  color: white;
+  font-family: "Popins", sans-serif;
+  border-radius: 10px;
+  background-color: #003566;
+  padding: 20px;
+  width: 650px;
+  margin: 20px;
+}
+
+.informations {
+  color: white;
+  font-family: "Popins", sans-serif;
+  border-radius: 10px;
+  background-color: #003566;
+  padding: 20px;
+  width: 650px;
+  margin: 20px;
+}
+
+.competences {
+  background-color: #003566;
+  border-radius: 10px;
+  padding: 20px;
+  color: white;
+  width: 650px;
+  margin: 20px;
+}
+
+.centres {
+  background-color: #003566;
+  border-radius: 10px;
+  padding: 20px;
+  color: white;
+  width: 650px;
+  margin: 20px;
+}
+
+.contact {
+  background-color: #003566;
+  border-radius: 10px;
+  padding: 20px;
+  color: white;
+  width: 650px;
+  margin: 20px;
+}
+
+.InputMail {
+  border-radius: 5px;
+  height: 20px;
+  width: 100%;
+}
+
+.InputMessage {
+  border-radius: 5px;
+  height: 20px;
+  width: 100%;
+}
+
+.top {
+  font-family: "Poppins", sans-serif;
+  color: #000000;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 500px;
+}
+
+.send {
+  padding: 10px;
+  border-radius: 0px;
+}
+
+.reset {
+  padding: 10px;
+  border-radius: 0px;
+}
