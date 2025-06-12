@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.theme-light {
+  color: black;
+  background-color: white;
+}
+
+.theme-dark {
+  color: white;
+  background-color: black;
+}
